@@ -2,8 +2,8 @@ fastapi==0.115.6
 uvicorn[standard]==0.34.0
 python-dotenv==1.0.1
 pydantic==2.10.5
-openai-agents
-openai
+openai-agents==0.18.0
+openai==2.44.0
 google-api-python-client==2.149.0
 google-auth-oauthlib==1.2.1
 google-auth-httplib2==0.2.0
