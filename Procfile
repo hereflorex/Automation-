@@ -1,1 +1,3 @@
-web: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+cat > Procfile <<'EOF'
+web: python run.py
+EOF
