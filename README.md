@@ -1,4 +1,4 @@
-# FLOREXIA v4 — NOIR//NULL Content Agent
+# FLOREXIA v5 — NOIR//NULL Content Agent🥢
 
 Florexia is a content-studio agent with a web dashboard plus remote control through Telegram and email notifications.
 
